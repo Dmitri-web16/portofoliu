@@ -1,2 +1,1 @@
 # portofoliu
-# sigma
